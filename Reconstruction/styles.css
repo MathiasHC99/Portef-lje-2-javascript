@@ -93,7 +93,7 @@ nav {
 }
 
 .hero {
-    background-image: url('LOGOS/NEWSGIF.gif');
+    background-image: url('NEWSGIF.gif');
     background-size: cover;
     background-position: center;
     height: calc(100vh + 60px);
