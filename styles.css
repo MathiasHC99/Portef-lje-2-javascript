@@ -32,7 +32,6 @@ a {
     color: black;
 }
 
-/* Navigation Bar */
 header {
     background-color: white;
     padding: 10px;
@@ -93,7 +92,7 @@ nav {
 }
 
 .hero {
-    background-image: url('NEWSGIF.gif');
+    background-image: url('LOGOS/NEWSGIF.gif');
     background-size: cover;
     background-position: center;
     height: calc(100vh + 60px);
